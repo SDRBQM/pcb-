@@ -1,0 +1,5 @@
+train: E:\deskdop\1\1\NEU-DET-with-yolov8-main\data\NEU-DET\train
+val: E:\deskdop\1\1\NEU-DET-with-yolov8-main\data\NEU-DET\test
+test: E:\deskdop\1\1\NEU-DET-with-yolov8-main\data\NEU-DET\test
+nc: 6 #标签数量
+names: ['crazing', 'inclusion', 'patches', 'pitted_surface', 'rolled-in_scale', 'scratches']#标签名称
